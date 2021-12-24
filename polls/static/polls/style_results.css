@@ -1,0 +1,22 @@
+a{
+  display: block;
+  text-align: center;
+    solid-color: brown;
+}
+li a {
+    color: yellowgreen;
+    text-align: center;
+
+
+}
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size:cover;
+     background: white url("images/background.jpg") no-repeat;
+    text-decoration-color: yellowgreen;
+    color: yellow;
+}
+h1 {
+  color: yellowgreen;
+    text-align: center;
+}
